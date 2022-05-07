@@ -1,5 +1,6 @@
 # Daily English Dictation
 这是我做每日英语听写练习的记录。
+[视频链接（Bilibili）](https://www.bilibili.com/video/BV1U7411a7xG)
 
 ## 文件
 每天的内容保存在以天数命名的 Markdown 文件中，文件内容包含：
@@ -21,5 +22,9 @@
 #### 订正结果
 * *斜体(1)*，注释标注。
 
-## 引用
-[视频链接（Bilibili）](https://www.bilibili.com/video/BV1U7411a7xG)
+## 吃瘪列表
+无粗体，小吃瘪，有连续的短内容没有听清。
+**粗体**，大吃瘪，有连续的整段内容没有听清。
+
+* **Day 5**
+* Day 6
